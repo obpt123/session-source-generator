@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace KnifeSourceGeneratorDemo
 {
-    [YS.Knife.ConvertTo(typeof(User),typeof(UserDto))]
+    [YS.Knife.ConvertTo(typeof(User), typeof(UserDto))]
     public partial class Mappers
     {
     }
