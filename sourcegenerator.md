@@ -19,7 +19,7 @@ presentation:
 1. 开发注意事项
 
 <!-- slide -->
-## Source Generator简介
+## 1. Source Generator简介
 
 
 <!-- slide -->
@@ -32,7 +32,7 @@ presentation:
 <img src="https://docs.microsoft.com/zh-cn/dotnet/csharp/roslyn-sdk/media/source-generators/source-generator-visualization.png">
 
 <!-- slide -->
-## 存在的意义
+## 2. 存在的意义
 <!-- slide -->
 - Code Smith
 - T4
@@ -40,14 +40,14 @@ presentation:
 - Expression
 - IL Emit
 <!-- slide -->
-## Demo演示
+## 3. Demo演示
 
 <!-- slide -->
 - Hello, World
 - Singleton Pattern
 
 <!-- slide -->
-## 实际应用场景
+## 4. 实际应用场景
 <!-- slide -->
 - ### Singleton Pattern
 - ### Auto Constructor
@@ -56,7 +56,7 @@ presentation:
 - ### Others ...
 
 <!-- slide -->
-## 开发注意事项
+## 5. 开发注意事项
 1. 开发态的引用
     - net standard 2.0 
     - Microsoft.CodeAnalysis.CSharp
@@ -83,3 +83,6 @@ presentation:
 - [C#&nbsp;Source&nbsp;Generators](https://channel9.msdn.com/Shows/On-NET/C-Source-Generators)
 
 - [C#&nbsp;Source&nbsp;Generators&nbsp;In&nbsp;Action](https://www.youtube.com/watch?v=052xutD86uI)
+
+<!-- slide -->
+# Thank You
