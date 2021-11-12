@@ -59,9 +59,13 @@ presentation:
 ## 5. 开发注意事项
 1. 开发态的引用
     - net standard 2.0 
-    - Microsoft.CodeAnalysis.CSharp
-    - Microsoft.CodeAnalysis.Analyzers
-
+    - Microsoft.CodeAnalysis.CSharp (3.9.0)
+    - Microsoft.CodeAnalysis.Analyzers(3.0.0)
+1. 开发Source Generator
+    - partial
+    - 泛型类
+    - 继承类
+    - 命名空间
 1. 如何调试
     - OutputItemType="Analyzer"
     - Launcher
